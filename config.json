@@ -1,0 +1,9 @@
+{
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) LeonKuwata/1000.0.13627",
+  "rulesetFile": "rule.txt",
+  "attack": {
+    "target": "[[YOUR_TEST_TARGET]]",
+    "blows": 500,
+    "epoch": 100
+  }
+}

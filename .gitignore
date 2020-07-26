@@ -1,0 +1,6 @@
+# The LeonBlow gitignore file
+/node_modules/
+/dist
+.DS_Store
+rule.txt
+
